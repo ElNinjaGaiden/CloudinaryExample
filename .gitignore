@@ -1,0 +1,12 @@
+#################
+## Eclipse
+#################
+
+node_modules/
+platforms/
+plugins/
+
+#WebStorm
+.idea/
+
+
